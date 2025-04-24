@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Gabriel B.</h1>
 <h3 align="left">A self-taugth developer</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=C#+is+based;JS+my+beloved;Constantely+learning...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=CSharp+is+based;JS+my+beloved;Constantely+learning...;)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gblucas1809&label=Profile%20views&color=0e75b6&style=flat" alt="gblucas1809" /> </p>
 
